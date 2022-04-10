@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+#read{
+    margin: 25px;
+    padding: 15px;
+    font-size: 25px;
+    font-family: "open sans";
+    border: 1px solid orange;
+    color:#555;
+}
+*{
+    font-family: "open sans";
+}
+.🙈{
+    display: none;
+}
+div{
+    margin: 25px !important;
+    font-size: 18px !important; 
+}
